@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+#color-palette {
+  display: inline-block;
+  height: 50px;
+  width: 255px;
+  background-color: transparent;
+}
+
+#button-random-color {
+  background-color: rgb(216, 241, 250);
+  cursor: pointer;
+  display: inline-block;
+  border: solid 2px rgb(168, 202, 215);
+  margin-right: 15px;
+  color: black;
+  box-shadow: 3px 5px 10px black, 3px 5px 10px black;
+  width: 120px;
+  height: 23px;
+  border-radius: 10px;
+}
+
+#clear-board {
+  cursor: pointer;
+  display: inline-block;
+  border: solid 2px rgb(168, 202, 215);
+  background-color: rgb(216, 241, 250);
+  color: black;
+  box-shadow: 3px 5px 10px black, 3px 5px 10px black;
+  border-radius: 10px;
+  width: 100px;
+  height: 23px;
+}
+
+#clear-board:hover {
+  transform: scale(1.1) rotate(0deg);
+}
+
+#button-random-color:hover {
+  transform: scale(1.1) rotate(0deg);
+}
+
+#pixel-board {
+  background-color: transparent;
+  color: rgb(168, 202, 215);
+  height: 210px;
+  width: 235px;
+  display: inline-block;
+  margin-top: 40px;
+  box-shadow: 3px 5px 10px black, 3px 5px 10px black;
+}
+
+.pixel {
+  height: 40px;
+  width: 40px;
+  border: solid 1px black;
+  background-color: transparent;
+}
+
+#black {
+  background-color: black;
+  height: 55px;
+  width: 55px;
+  border: solid 1px black;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+#red {
+  background-color: red;
+  height: 55px;
+  width: 55px;
+  border: solid 2px black;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+#orange {
+  background-color: rgb(25, 25, 230);
+  height: 55px;
+  width: 55px;
+  border: solid 2px black;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+#green {
+  background-color: green;
+  height: 55px;
+  width: 55px;
+  border: solid 2px black;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+#title {
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  color: rgb(168, 202, 215);
+  margin: 35px;
+}
+
+body {
+  text-align: center;
+  background-image: url(cropped-1920-1080-1195480.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.configButton {
+  cursor: pointer;
+  display: flex;
+  background-color: transparent;
+  width: 300px;
+  margin-left: 510px;
+  margin-top: 20px;
+}
