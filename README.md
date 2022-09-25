@@ -8,9 +8,9 @@
 
 ▫️Desenvolver um editor de arte com pixels. <br>
 
-▫️colocar em prática o que aprendeu sobre HTML, CSS e JavaScript .<br>
+▫️colocar em prática o que aprendi sobre HTML, CSS e JavaScript .<br>
 
-▫️Organizar o seu código. Quebrar o código em funções. Priorizando funções pequenas, simples e bem definidas. <br>
+▫️Organizar o código. Quebrar o código em funções. Priorizando funções pequenas, simples e bem definidas. <br>
 
 
 
