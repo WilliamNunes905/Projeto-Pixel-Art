@@ -9,7 +9,7 @@
 
 <hr>
 
-<h3>Boas vindas ao repositório do projeto Arte com Pixels!</h3>
+<h3>Boas vindas ao repositório do projeto Arte com Pixels! 🖌️</h3>
 
 <h3>O que deverá ser desenvolvido :</h3>
 
