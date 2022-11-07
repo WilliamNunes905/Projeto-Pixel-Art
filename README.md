@@ -3,14 +3,16 @@
 
 <img src="https://github.com/WilliamNunes905/Projeto-Pixel-Art/blob/main/Captura%20de%20tela%20de%202022-09-24%2020-58-20.png" alt="imagem.png" style="max-width: 100%;">
 
+<hr>
 
-## 👾️ Esse projeto tem objetivo de:
+<h3>Boas vindas ao repositório do projeto Arte com Pixels!</h3>
 
-▫️Desenvolver um editor de arte com pixels. <br>
+<h3>O que deverá ser desenvolvido :</h3>
 
-▫️colocar em prática o que aprendi sobre HTML, CSS e JavaScript .<br>
-
-▫️Organizar o código. Quebrar o código em funções. Priorizando funções pequenas, simples e bem definidas. <br>
-
+ ▫️Você irá implementar uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto você irá utilizar javascript, css e html.
 
 
+<h3>Habilidades :</h3>
+▫️ Manipular o DOM
+
+▫️ Manipular o Javascript
